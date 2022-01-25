@@ -1,0 +1,23 @@
+body {
+    padding: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(../img/to_do_list.jpg);
+    background-size: 120% ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    
+    
+    
+
+        
+}
+
+.box {
+    margin-right: 20px;
+}
+
+
